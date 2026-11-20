@@ -224,3 +224,7 @@ data
 
 # log folder
 runs
+
+#other folders
+demos
+models
